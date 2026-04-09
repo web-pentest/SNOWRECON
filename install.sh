@@ -1,8 +1,15 @@
 #!/bin/bash
+
 echo "❄️ Устанавливаем SNOWRECON..."
 
-python -m venv venv
+# Создаём виртуальное окружение
+python3 -m venv venv
+
+# Активируем
 source venv/bin/activate
+
+# Устанавливаем зависимости
 pip install -r requirements.txt
 
-echo "✅ Готово! Запусти: source venv/bin/activate && python snowrecon.py"
+echo "✅ Готово!"
+echo "Запусти: source venv/bin/activate && python3 snowrecon.py"
