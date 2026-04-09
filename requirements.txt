@@ -1,0 +1,5 @@
+sherlock
+holehe
+photon
+requests
+colorama
