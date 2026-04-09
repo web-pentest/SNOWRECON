@@ -7,6 +7,10 @@
 
 Легальный сбор открытых данных. Sherlock, theHarvester, Holehe, WhatWeb, Nmap, Photon — в одном флаконе.
 
+| Фото 1 | Фото 2 |
+|--------|--------|
+| <img src="image/1.jpg" width="400"> | <img src="image/2.jpg" width="400"> |
+
 ## Инструменты
 
 | # | Инструмент | Что делает |
