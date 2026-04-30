@@ -182,7 +182,7 @@ def main_menu():
             print(Colors.GREEN + "До свидания! ❄️" + Colors.END)
             sys.exit(0)
         else:
-            print(Colors.RED + "Неверный выбор" + Colors.END)
+            print(Colors.RED + "Неверный выбор, good bye my frend! " + Colors.END)
             input(Colors.CYAN + "Нажмите Enter..." + Colors.END)
 
 if __name__ == "__main__":
